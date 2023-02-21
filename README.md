@@ -7,4 +7,4 @@ The code is parted in two way one for the covid death and other one for the covi
 
 feel free to add any siggetions.
 
-Lastly I would like to special thanks to Alex the analyst sir for guidance for porject and giving some hands and experinace .
+Lastly I would like to special thanks to Alex the analyst sir for guiding for porject and giving some hands on experinace for writing sql queries.
