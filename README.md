@@ -5,6 +5,6 @@ AND used some intermidiate to advance level querying in the project.
 
 The code is parted in two way one for the covid death and other one for the covid vaccination in the same script.
 
-feel free to add any siggetions.
+feel free to add any suggetions.
 
 Lastly I would like to special thanks to Alex the analyst sir for guiding for porject and giving some hands on experinace for writing sql queries.
